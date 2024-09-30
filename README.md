@@ -4,5 +4,3 @@
 
 ## My tools
 ![Static Badge](https://img.shields.io/badge/py-python-blue?logo=pythonanywhere)
-
-k7kmi6rbfqkw9tly
