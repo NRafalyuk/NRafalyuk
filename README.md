@@ -4,3 +4,6 @@
 
 ## My tools
 ![Static Badge](https://img.shields.io/badge/py-python-blue?logo=pythonanywhere)
+
+## My Yandex
+https://browser.yandex.ru/corp/builds?refid=10672138
